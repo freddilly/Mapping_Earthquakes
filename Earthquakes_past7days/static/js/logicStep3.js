@@ -75,8 +75,6 @@ function getRadius(magnitude) {
 	}
 	return magnitude * 4;
   }
-  // Creating a GeoJSON layer with the retrieved data.
-  // Creating a GeoJSON layer with the retrieved data.
 // Creating a GeoJSON layer with the retrieved data.
 L.geoJson(data, {
     // We turn each feature into a circleMarker on the map.
